@@ -24,7 +24,6 @@ astro dev stop
 
 ## Configurar conexão banco
 
-
 Acesse o Airflow Web UI
 
 No navegador, vá para: http://localhost:8082 (ou o endereço do seu Airflow)
@@ -52,6 +51,7 @@ Exemplo:
 | Login      | seu_usuario             |
 | Password   | sua_senha               |
 | Port       | 5432 (se for padrão)    |
+
 
 ## Dag para teste de conexão
 
