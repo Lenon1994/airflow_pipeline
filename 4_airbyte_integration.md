@@ -130,3 +130,4 @@ with DAG(
 
 - [Documentação do Airbyte API](https://docs.airbyte.com/api/)
 - [Operadores Airbyte no Airflow](https://airflow.apache.org/docs/apache-airflow-providers-airbyte/stable/operators/index.html)
+ 
